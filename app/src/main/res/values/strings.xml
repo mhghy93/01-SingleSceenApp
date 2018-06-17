@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CATLA Broadband Services</string>
+    <string name="company_name">CATLA Broadband Services</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="para_one">
+        CATLA Broadband Services is a subsidiary of CATLA IT and Engg Pvt Ltd. We aim to provide High Speed Internet connection (Fiber/Wireless) in and around Guwahati. Unlimited download/upload (No capping) at no extra cost.
+    </string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="working_hours">HOURS OF OPERATION : 10AM TO 6PM (Sunday closed)</string>
+    <string name="address">
+        Address : BMP complex (above SBI ATM)
+        1ST Floor Beltola, Near Puberun Club
+        Beltola, Guwahati, Assam 781022
+    </string>
+    <string name="email">catlabroadbandservices@gmail.com</string>
+    <string name="web">http://www.catlabroadband.in</string>
+    <string name="phone_no">9854051525</string>
+</resources>
